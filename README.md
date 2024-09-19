@@ -34,4 +34,4 @@
 - Kode program bisa dicek di link https://github.com/hwthinker/esp8266-relay2ch-30A/blob/main/src/main.cpp 
 
 ## Warning:❗⚠️
-Aktifkan daya untuk menghidupkan alat hanya dengan satu jenis sumber daya, bisa 9VDC atau 5VDC. Jangan menghubungkan beberapa sumber daya secara bersamaan, karena akan menyebabkan kerusakan pada alat.
+Aktifkan daya untuk menghidupkan alat hanya dengan satu jenis sumber daya, bisa 12VDC atau 5VDC. Jangan menghubungkan beberapa sumber daya secara bersamaan, karena akan menyebabkan kerusakan pada alat.
