@@ -1,5 +1,5 @@
-# Modul ESP8266 Relay 2 Channel 30A
-![](https://github.com/hwthinker/ESP8266-relay2ch-30A/blob/main/picture/1.png)
+# Modul ESP8266 Relay 2 Channel 30A 
+![](https://github.com/hwthinker/esp8266-relay2ch-30A/blob/main/picture/1.png)
 
 
 ## Cara download dengan Serial USB biasa
