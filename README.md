@@ -1,5 +1,8 @@
-# Modul ESP8266 Relay 2 Channel 30A 
+# Modul ESP8266 Relay 2 Channel 30A
+
 ![Gambar 1](./assets/1.png)
+
+Board ESP8266 (ESP-12F) dengan dua relay 30A onboard — cocok untuk beban arus tinggi seperti pompa air atau kompresor. Relay dikendalikan lewat GPIO 14 (RLY1) dan GPIO 12 (RLY2), tapi **butuh jumper manual** (lihat bagian Aktivasi Relay) karena tidak tersambung ke GPIO secara default.
 
 ## Cara install plugin Arduino IDE
 
@@ -134,7 +137,4 @@ Default relay tidak terhubung ke ESP8266. Agar relay terhubung ke esp8266 pastik
 Aktifkan daya untuk menghidupkan alat hanya dengan satu jenis sumber daya, bisa 12VDC atau 5VDC. Jangan menghubungkan beberapa sumber daya secara bersamaan, karena akan menyebabkan kerusakan pada alat.
 
 > [!NOTE]
-> Untuk serial disarankan menggunakan serial auto download
->
-> - https://tokopedia.link/Ml3NIixX6Mb atau
-> - https://shopee.co.id/product/21375728/27056587756/ 
+> Untuk serial disarankan menggunakan modul USB-TTL yang mendukung "auto download" — otomatis mengatur EN/IO0 saat upload sehingga tidak perlu pasang-lepas jumper manual tiap kali upload.
