@@ -1,5 +1,22 @@
 # Modul ESP8266 Relay 2 Channel 30A
 
+<!-- hwthinker-store-links -->
+
+## Beli boardnya & tutorial lengkap
+
+**Board yang dipakai di repo ini tersedia di HwThinker Store:**
+
+- [Modul Relay 2 Channel ch 2ch WIFI ESP-12F ESP8266 30A IOT](https://hwthinker.com/produk/2a0b032c-3b04-4ad4-aa96-ec08f9c118a1)
+
+**Tutorial lengkap — langkah bergambar, troubleshooting, dan kode yang sudah diuji:**
+
+- [Modul ESP8266 Relay 2 Channel 30A — Setup Arduino IDE](https://hwthinker.com/tutorials/esp8266-relay-2ch-30a)
+
+Butuh bantuan pemasangan? Sapa kami lewat live chat di [hwthinker.com](https://hwthinker.com) — barang dikirim dari Surabaya, sudah diuji sebelum dikemas.
+
+<!-- /hwthinker-store-links -->
+
+
 ![Gambar 1](./assets/1.png)
 
 Board ESP8266 (ESP-12F) dengan dua relay 30A onboard — cocok untuk beban arus tinggi seperti pompa air atau kompresor. Relay dikendalikan lewat GPIO 14 (RLY1) dan GPIO 12 (RLY2), tapi **butuh jumper manual** (lihat bagian Aktivasi Relay) karena tidak tersambung ke GPIO secara default.
